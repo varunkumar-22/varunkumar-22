@@ -4,13 +4,6 @@
 
 I'm a passionate developer who loves building amazing things with code. I enjoy learning new technologies and contributing to open-source projects.
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies/Skills]**
-- 👯 I'm looking to collaborate on **[Types of Projects]**
-- 💬 Ask me about **[Your Expertise Areas]**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
-
 ## 🛠️ Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -25,11 +18,11 @@ I'm a passionate developer who loves building amazing things with code. I enjoy 
 
 <div align="center">
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=varunkumar-22&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varunkumar-22&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunkumar-22&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -37,20 +30,20 @@ I'm a passionate developer who loves building amazing things with code. I enjoy 
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=varunkumar-22&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varunkumar-22&theme=react-dark&hide_border=true)](https://github.com/varunkumar-22)
 
 ## 🔥 Featured Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_NAME_1&theme=radical&hide_border=true)](https://github.com/YOUR_USERNAME/PROJECT_NAME_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_NAME_2&theme=radical&hide_border=true)](https://github.com/YOUR_USERNAME/PROJECT_NAME_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=varunkumar-22&repo=PROJECT_NAME_1&theme=radical&hide_border=true)](https://github.com/varunkumar-22/PROJECT_NAME_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=varunkumar-22&repo=PROJECT_NAME_2&theme=radical&hide_border=true)](https://github.com/varunkumar-22/PROJECT_NAME_2)
 
 </div>
 
@@ -71,6 +64,6 @@ I'm a passionate developer who loves building amazing things with code. I enjoy 
   
 ### Show some ❤️ by starring some of the repositories!
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=varunkumar-22&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
