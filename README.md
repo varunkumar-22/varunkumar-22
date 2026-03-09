@@ -108,16 +108,6 @@ I believe the best ideas emerge from collaboration. Whether you're working on a 
 
 ---
 
-## 💬 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
 ## 🌐 Let's Connect & Build Together!
 
 <div align="center">
