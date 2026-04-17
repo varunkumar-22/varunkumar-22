@@ -117,7 +117,6 @@ I'm always excited to connect with fellow developers, collaborate on innovative 
 ### 📫 Reach Out
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-kumar-7138a4371/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriramvarunkumar@gmail.com)
 
 
@@ -130,9 +129,3 @@ I'm always excited to connect with fellow developers, collaborate on innovative 
 
 </div>
 
-
-**💙 Thanks for stopping by! Let's build something amazing together.**
-
-<sub>Last updated: Auto-generated on every push ⚡</sub>
-
-</div>
